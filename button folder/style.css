@@ -1,0 +1,48 @@
+html, body{
+    margin:0;
+    padding :0;
+}
+
+h2{
+    color:#631af4;
+    text-align : center;
+}
+
+h4{
+    color: #f4b31a;
+    text-align : center;
+}
+
+h5{
+    color: #f48b1a;
+    text-align : center;
+}
+
+h6{
+    color: #f4581a;
+    text-align : center;
+}
+
+redpara{
+    color : #f27575;
+}
+
+bulepara{
+    color : #59aef4;
+}
+
+#myveryspecificthing{
+    color :#1cf9a1;
+}
+
+#my_css_button{
+    border: none;
+    border-radius: 10px;
+    background-color:#75ea96;
+   border-bottom: 4px #4e926d;
+}
+
+#my_css_button:hover{
+    background-color:#4e926d;
+    border-bottom: 4px solid #305f45;
+}
